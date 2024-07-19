@@ -71,7 +71,7 @@
         }
     }
     .playground h1{
-        font-size: 35px;
+        font-size: 30px;
         background: linear-gradient(to right top, rgb(6, 79, 6),rgb(31, 162, 31));
         color: transparent;
         -webkit-background-clip: text;
@@ -87,12 +87,12 @@
     }
     .Score p{
         font-size: 20px ;
-        padding: 10px 10px;
+        padding: 10px 5px;
     }
     .items button img{
     
         padding: 3px;
-        height: 40px;
+        height: 30px;
     
     }
     .items button{
