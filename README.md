@@ -21,7 +21,7 @@ This project is a simple web-based Cricket game where users can choose between B
 
 1. Clone the repository or download the zip file.
     ```sh
-    git clone https://github.com/yourusername/cricket-game.git
+    git clone https://ahmadaltamash.github.io/MiniProject_Cricket/
     cd cricket-game
     ```
 2. Open `index.html` in your web browser.
