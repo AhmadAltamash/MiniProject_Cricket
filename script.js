@@ -112,8 +112,7 @@ function startMatch() {
   else
   {
     l.innerText = `Loss: ${score.loss+=1}`
-    stm.innerHTML = `${p} chose Stump and Cpu Chose Ball
-                       ${p} Lost`
+    stm.innerHTML = `${p} chose Stump and Cpu Chose Ball`
   }
   localStorage.setItem('score',JSON.stringify(score))
   updateScore()
