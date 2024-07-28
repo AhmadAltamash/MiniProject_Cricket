@@ -82,7 +82,7 @@ function startMatch() {
     else if(userchoice === "Stump" && cpuchoice === "Stump")
     {
         t.innerText = `Tie: ${score.tie+=1}`
-        stm.innerHTML = `${p} chose Stump and Cpu Chose Stum`
+        stm.innerHTML = `${p} chose Stump and Cpu Chose Stump`
     }
   else if(userchoice === "Bat" && cpuchoice === "Ball")
   {
