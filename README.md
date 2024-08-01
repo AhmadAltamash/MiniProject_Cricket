@@ -72,6 +72,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Author
 
-Altamash Ahmad (https://github.com/AhmadAltamash)
+[Altamash Ahmad](https://github.com/AhmadAltamash)
 
 Feel free to customize this readme file further according to your preferences and additional information.
